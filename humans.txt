@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Jose Luis Pin Toral
+
+# THANKS
+
+  OrugaVerde
+
+# TECHNOLOGY COLOPHON
+
+  AMP CSS FRAMEWORK, BOOTSTRAP 4, HTML5, CSS3. 
